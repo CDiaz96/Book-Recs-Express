@@ -1,0 +1,31 @@
+body{
+  background-image: url("https://blog.hubspot.com/hubfs/books-every-aspiring-ceo-should-read.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 585px;
+}
+h1{
+  color: black;
+  margin-left: 20%;
+}
+.hold{
+  width: 40%;
+  height: auto;
+  margin-left: 5%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin-top: 5%;
+  background-color:lightblue;
+}
+
+li, form{
+  margin-left: 5%;
+}
+h2{
+  font-family: cursive;
+  font-size: 18px;
+  margin-left: 20%;
+}
+h3{
+  margin-left: 20%;
+}
